@@ -43,7 +43,7 @@
     "react-times": "^3.0.0",
     "react-tooltip": "^3.6.0",
     "redux": "^4.0.0",
-    "serve": "^6.5.8",
+    "serve": "^10.1.2",
     "socket.io-client": "^2.1.1",
     "username": "^3.0.0"
   },
