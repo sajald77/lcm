@@ -50,7 +50,7 @@
   "devDependencies": {
     "concurrently": "3.4.0",
     "electron": "1.6.10",
-    "electron-builder": "^19.56.2",
+    "electron-builder": "^23.6.0",
     "prettier": "^1.4.4",
     "react-addons-perf": "^15.4.2",
     "react-scripts": "1.1.4",
